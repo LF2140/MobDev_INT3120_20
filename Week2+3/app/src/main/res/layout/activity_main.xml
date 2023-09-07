@@ -96,7 +96,7 @@
 
     <TextView
         android:id="@+id/donate_result"
-        style="@style/Widget.AppCompat.TextView"
+        style="@style/Widget.vibe.TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
