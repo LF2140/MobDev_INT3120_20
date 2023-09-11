@@ -7,4 +7,5 @@
     <string name="direct">Direct</string>
     <string name="please_donate_us">Please donate us</string>
     <string name="donate">Donate</string>
+    <string name="total_so_far">Total so Far: %s</string>
 </resources>
